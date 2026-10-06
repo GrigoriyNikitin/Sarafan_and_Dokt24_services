@@ -35,8 +35,8 @@
 ### Локальный запуск (без Docker)
 #### 1. Клонирование репозитория
 ```
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/GrigoriyNikitin/Sarafan_and_Dokt24_services.git
+cd Sarafan_and_Dokt24_services
 ```
 #### 2. Создание и активация виртуального окружения
 ```
@@ -67,8 +67,8 @@ python manage.py runserver
 ### Запуск через Docker Compose
 #### 1. Клонирование репозитория
 ```
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/GrigoriyNikitin/Sarafan_and_Dokt24_services.git
+cd Sarafan_and_Dokt24_services
 ```
 #### 2. Создание .env файла
 Скопируйте пример и при необходимости отредактируйте значения:
@@ -83,19 +83,18 @@ docker compose up --build -d
 Административная панель приложения будет доступна по адресу: http://127.0.0.1:8000/admin/
 
 
-## 3. Документация Swagger
+## 4. Документация Swagger
 После запуска сервера документация (в которой описаны доступные эндпоинты и структура запросов/ответов) доступна по адресам:
 ```
 Swagger UI: http://127.0.0.1:8000/api/swagger/
 ReDoc: http://127.0.0.1:8000/api/redoc/
 ```
 
-## 4. Запуск тестов
+## 5. Запуск тестов
 Для запуска тестов необходимо выполнить следующую команду:
 ```
 pytest -v
 ```
 
-
-## 5. Автор
+## 6. Автор
 [Григорий Никитин](https://github.com/GrigoriyNikitin)
