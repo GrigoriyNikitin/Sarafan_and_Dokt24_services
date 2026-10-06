@@ -1,0 +1,62 @@
+[
+  {
+    "model": "products.subcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Молоко и сливки",
+      "slug": "milk-cream",
+      "image": "subcategories/milk-cream.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.subcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Сыры",
+      "slug": "cheese",
+      "image": "subcategories/cheese.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.subcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Курица",
+      "slug": "chicken",
+      "image": "subcategories/chicken.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.subcategory",
+    "pk": 4,
+    "fields": {
+      "name": "Говядина",
+      "slug": "beef",
+      "image": "subcategories/beef.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.subcategory",
+    "pk": 5,
+    "fields": {
+      "name": "Фрукты",
+      "slug": "fruits",
+      "image": "subcategories/fruits.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.subcategory",
+    "pk": 6,
+    "fields": {
+      "name": "Овощи",
+      "slug": "vegetables",
+      "image": "subcategories/vegetables.jpg",
+      "category": 3
+    }
+  }
+]

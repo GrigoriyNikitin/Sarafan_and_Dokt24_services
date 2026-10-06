@@ -1,0 +1,142 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Молоко 3.2%",
+      "slug": "milk-3-2",
+      "image": "products/original/milk-3-2.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 1,
+      "price": "89.90"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Кефир 1%",
+      "slug": "kefir-1",
+      "image": "products/original/kefir-1.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 1,
+      "price": "75.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Сыр Российский",
+      "slug": "cheese-russian",
+      "image": "products/original/cheese-russian.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 2,
+      "price": "450.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Сыр Моцарелла",
+      "slug": "cheese-mozzarella",
+      "image": "products/original/cheese-mozzarella.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 2,
+      "price": "320.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Филе куриное",
+      "slug": "chicken-fillet",
+      "image": "products/original/chicken-fillet.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 3,
+      "price": "379.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Бедро куриное",
+      "slug": "chicken-thigh",
+      "image": "products/original/chicken-thigh.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 3,
+      "price": "259.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Говядина (лопатка)",
+      "slug": "beef-shoulder",
+      "image": "products/original/beef-shoulder.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 4,
+      "price": "649.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Яблоки Гала",
+      "slug": "apples-gala",
+      "image": "products/original/apples-gala.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 5,
+      "price": "129.90"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Бананы",
+      "slug": "bananas",
+      "image": "products/original/bananas.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 5,
+      "price": "99.90"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Помидоры черри",
+      "slug": "cherry-tomatoes",
+      "image": "products/original/cherry-tomatoes.jpg",
+      "image_thumb": "",
+      "image_medium": "",
+      "image_large": "",
+      "subcategory": 6,
+      "price": "189.00"
+    }
+  }
+]

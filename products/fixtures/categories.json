@@ -1,0 +1,29 @@
+[
+  {
+    "model": "products.category",
+    "pk": 1,
+    "fields": {
+      "name": "Молочные продукты",
+      "slug": "dairy",
+      "image": "categories/dairy.jpg"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 2,
+    "fields": {
+      "name": "Мясо и птица",
+      "slug": "meat-poultry",
+      "image": "categories/meat-poultry.jpg"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 3,
+    "fields": {
+      "name": "Овощи и фрукты",
+      "slug": "fruits-vegetables",
+      "image": "categories/fruits-vegetables.jpg"
+    }
+  }
+]
